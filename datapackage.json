@@ -1,6 +1,6 @@
 {
   "name": "food-comp-data-fr",
-  "title": "Food Compisition Data France",
+  "title": "Food Composition Data France",
   "format": "csv",
   "datapackage_version": "1.0.0",
   "last_modified": "2017-01-30",
@@ -9,11 +9,10 @@
     "url": "http://opendatacommons.org/licenses/pddl/1.0/"
   }],
   "sources": [{
-    "name": "the French agency for food, environmental and occupational health safety",
+    "name": "French Agency for food, environmental and occupational health safety",
     "web": "https://pro.anses.fr/tableciqual/index.htm"
   }],
   "resources": [{
-    "url": "https://raw.github.com/schoolofdata-ch/food-comp-data-fr/master/data/food-comp-data-fr.csv",
     "path": "data/food-comp-data-fr.csv",
     "schema": {
       "fields": [{
@@ -29,16 +28,15 @@
         "name": "Zinc",
         "description": "Zinc mg",
         "type": "numeric"
-
+      }, {
+        "name": "Limitation and exception",
+        "description": "Limitation and exception",
+        "type": "string"
       }]
     }
-  }, {
-    "name": "Limitation and exception",
-    "description": "Limitation and exception",
-    "type": "string"
   }],
   "maintainers": [{
-    "name": "School of Data",
+    "name": "School of Data Switzerland",
     "web": "https://www.schoolofdata.ch/"
   }]
 }
