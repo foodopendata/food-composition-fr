@@ -1,4 +1,4 @@
-The nutrient datasheets from the [French Agency for food, environmental and occupational health safety](https://pro.anses.fr/tableciqual/index.htm) present the contents of different components (carbohydrates, proteins, fat and fatty acids, vitamins, minerals, etc.) and energy values for each type food. The data are always given for 100 g of the edible portion of the food. The current version of the French food composition table is from 2016 and contains average nutrient information for 61 components in 2642 food items.
+The nutrient datasheets from the [French Agency for food, environmental and occupational health safety](https://pro.anses.fr/tableciqual/index.htm) present the contents of different components (carbohydrates, proteins, fat and fatty acids, vitamins, minerals, etc.) and energy values for each type food. The data are always given for 100 g of the edible portion of the food. The current version of the French food composition table is from 2017 and contains average nutrient information for 61 components in 2800 food items.
 
 The table contains the following columns:
 
@@ -11,9 +11,11 @@ ORIGGPCD;ORIGGPFR;ORIGFDCD;ORIGFDNM;Energie, Règlement UE N° 1169/2011 (kJ/100
 This package is licensed by its maintainers under the Public Domain Dedication
 and License.
 
-The dataset it contains is republished under the following [terms at source](https://pro.anses.fr/tableciqual/index.htm):
+The dataset contains is republished under the following [terms at source](https://pro.anses.fr/tableciqual/index.htm):
 
-> In accordance with the provisions of article 12 of the Act no. 78-753 of 17 July 1978 on various measures for improved relations between the Civil Service and the public and on various arrangements of administrative, social and fiscal nature, the reuse of the information put online on this site is subject to the condition that this information are not modified, that its sense is not denatured and that its source and the date in its last updating are mentioned.
+> "The reuse of the information available online on the ANSES-CIQUAL website is subject to the condition that this information are not modified, that its sense is not denatured and that its source and the date of the version are mentioned, in accordance with the provisions of the Act no. 2016-1321 of October 7th 2016 for a Digital Republic, and of the Code of the relations between the public and public administration. Data may be used under the terms and conditions of the [Open Licence (in French)](https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf).
+
+All data or information taken from the ANSES-CIQUAL website must be reproduced in full, without any modification or addition, and without any associated advertisements. The data must also be freely downloadable."
 
 If you intended to use these data in a public or commercial product, please
 check the original sources for any specific restrictions.
