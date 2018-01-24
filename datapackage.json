@@ -1,9 +1,9 @@
 {
-  "name": "food-comp-data-fr",
+  "name": "food-comp-data-eng",
   "title": "Food Composition Data France",
   "format": "csv",
   "datapackage_version": "1.0.0",
-  "last_modified": "2017-01-30",
+  "last_modified": "2018-01-24",
   "licenses": [{
     "type": "ODC-PDDL-1.0",
     "url": "http://opendatacommons.org/licenses/pddl/1.0/"
@@ -13,7 +13,7 @@
     "web": "https://pro.anses.fr/tableciqual/index.htm"
   }],
   "resources": [{
-    "path": "data/food-comp-data-fr.csv",
+    "path": "data/food-comp-data-eng.csv",
     "schema": {
       "fields": [{
         "name": "Energie",
